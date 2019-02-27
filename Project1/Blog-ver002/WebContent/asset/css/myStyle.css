@@ -1,0 +1,122 @@
+/*  Theme name and other details will go here */
+
+/* start: header css */
+/*
+#top{
+   
+}
+*/
+
+
+.container {
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+.allPost {
+
+    background-color: #f6f6f6;
+   margin-top:0px;
+   margin-right: 0px;
+   margin-left: 0px;
+   height: 50px;
+   padding-top: 5px;
+    width:850px;
+    border-bottom:1px solid #dadada;
+    
+
+
+}
+#windowButtons{
+    margin-top: 3px;
+    margin-right: 3px;
+    float:right;
+}
+
+
+table.dataTable.display tbody td {
+    border-top: 1.5px solid #ddd;
+}
+
+input[type=search] {
+    margin-top:20px;
+    -webkit-appearance: none;
+    border-radius: 4px;
+    height: 29px;
+    width: 188px;
+    margin-right: 5px;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 1px solid #dddddd;
+    border-top:1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+  
+   
+}
+select {
+    margin-top:20px;
+    text-transform: none;
+    border-radius: 4px;
+    height: 31px;
+    width: 69px;
+}
+
+.Team2{
+    
+     width:850px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left: 80px;
+    background-color: white;
+   
+    
+}
+
+.issue {
+
+    margin-left: 17px;
+    margin-right: 17px;
+   
+    
+}
+
+h3{
+        margin-top: 6px;
+    padding-top: 5px;
+    padding-left: 17px;
+    float:left;
+    color:#33353f;
+
+}
+
+
+table.dataTable thead th,table.dataTable thead td{
+    
+      border-bottom: solid 3px #dddddd;
+     color: #777777;
+    border-left: 1px solid #dddddd;
+  
+    background-color: #f9f9f9;
+
+    
+    
+    
+}
+td{
+    color:#777777;
+    border-left: solid 1px #dddddd;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: #333 !important;
+    border: 1px solid #979797;
+    background-color: white;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #dcdcdc));
+    background: -webkit-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -moz-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -ms-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -o-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: linear-gradient(to bottom,#0088cc 100%, #fff 0% );
+}
+
+

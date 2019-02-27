@@ -1,0 +1,165 @@
+/*  Theme name and other details will go here */
+
+/* start: header css */
+/*
+#top{
+   
+}
+*/
+
+
+.container {
+
+   
+}
+
+.team.col-md-10 {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+}
+
+.dataTableDiv{
+        border-radius: 5px;
+    background-color: white;
+        padding-bottom: 10px;
+
+}
+
+.allPost {
+
+     background-color: #f6f6f6;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    height: 50px;
+    padding-top: 5px;
+    width: 100%;
+border-bottom: 1px solid #dadada;
+
+}
+#windowButtons{
+    margin-top: 10px;
+    margin-right: 10px;
+    float:right;
+}
+
+table.dataTable.display tbody td {
+    border-top: 1.5px solid #ddd;
+}
+
+input {
+    margin: 0px;
+    -webkit-appearance: none;
+    border-radius: 4px;
+    height: 29px;
+    width: 188px;
+    border: 1px solid #ccc;
+}
+
+input[type=search] {
+    margin-top:20px;
+    -webkit-appearance: none;
+    border-radius: 4px;
+    height: 29px;
+    width: 188px;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+        padding: 10px;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 1px solid #dddddd;
+    border-top:1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+  
+   
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+select {
+        margin-top: 20px;
+    text-transform: none;
+    border-radius: 4px;
+    height: 31px;
+    width: 69px;
+    border-color: #ccc;
+    color: #777;
+}
+
+.issue {
+/*
+    width: 800px;
+    height: 800px;
+*/
+    margin-left: 17px;
+    margin-right: 17px;
+   
+    
+}
+/*
+.display {
+
+    width: 776px;
+    height: 195px;
+}
+*/
+
+h3{
+        margin-top: 6px;
+    padding-top: 5px;
+    padding-left: 17px;
+    float:left;
+    color:#33353f;
+
+}
+/*
+th{
+   
+*/
+
+table.dataTable thead th,table.dataTable thead td{
+    
+      border-bottom: solid 3px #dddddd;
+     color: #777777;
+    border-left: 1px solid #dddddd;
+  
+    background-color: #f9f9f9;
+
+    
+    
+    
+}
+td{
+    color:#777777;
+    border-left: solid 1px #dddddd;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: white !important;
+    background-color: white;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #dcdcdc));
+    background: -webkit-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -moz-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -ms-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: -o-linear-gradient(top, #fff 0%, #dcdcdc 100%);
+    background: linear-gradient(to bottom,#0088cc 100%, #fff 0% );
+    border: 0px;
+    border-radius: 0px;
+}
+
+
+
+$('#the_table').DataTable({
+  language: {
+    paginate: {
+      next: '<img src="path/to/arrow.png">',
+      previous: '<i class="fa fa-fw fa-long-arrow-left">'  
+    }
+  }
+});
+

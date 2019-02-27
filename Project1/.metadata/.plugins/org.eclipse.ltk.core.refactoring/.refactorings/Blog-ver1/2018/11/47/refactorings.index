@@ -1,0 +1,24 @@
+1542630744163	Move 'MANIFEST.MF' to 'META-INF'
+1542630757441	Move 'about.jsp' to 'WEB-INF'
+1542630762698	Move 'contact.jsp' to 'WEB-INF'
+1542630770452	Move 'createblog.jsp' to 'WEB-INF'
+1542630777661	Move 'about.jsp' to 'WebContent'
+1542630780204	Move 'contact.jsp' to 'WebContent'
+1542630782060	Move 'createblog.jsp' to 'WebContent'
+1542630785104	Move 'deleteblog.jsp' to 'WebContent'
+1542630787070	Move 'editblog.jsp' to 'WebContent'
+1542630789254	Move 'editblogview.jsp' to 'WebContent'
+1542630792077	Move 'home.jsp' to 'WebContent'
+1542630793887	Move 'index.jsp' to 'WebContent'
+1542630797288	Move 'listblogs.jsp' to 'WebContent'
+1542630804996	Move 'web.xml' to 'WEB-INF'
+1542630892287	Move 'commons' to 'commons'
+1542630910590	Delete element
+1542630951778	Move 'commons' to 'WebContent'
+1542631288529	Move 'jdbc.properties' to 'Blog-ver1'
+1542631493317	Delete element
+1542631578376	Move 'src' to 'src'
+1542631669495	Move 'blogapp' to 'src'
+1542631674767	Delete element
+1542634915947	Delete element
+1542634988006	Delete element

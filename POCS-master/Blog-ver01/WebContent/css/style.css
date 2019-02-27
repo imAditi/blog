@@ -1,0 +1,19 @@
+body{
+	font-family: 'Lato', sans-serif;
+	
+}
+
+.btn-link-spacing{
+			margin-top:10px;
+		}
+		
+.myfooter{
+	background:black;
+}
+		
+.myfooter .container{
+	   
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

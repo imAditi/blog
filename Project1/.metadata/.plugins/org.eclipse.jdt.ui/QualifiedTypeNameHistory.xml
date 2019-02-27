@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.nio.file.FileSystemNotFoundException"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.util.SimpleJDBCUtil"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.dao.BlogDAO"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.daoimpl.BlogDAOImpl"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.serviceapp.BlogServiceImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.service.BlogService"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.serviceimpl.BlogServiceImpl"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.domain.Blog"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.rowmapper.UserRowMapper"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.dao.UserDAO"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.daoimpl.UserDAOImpl"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.domain.User"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.service.UserService"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.serviceimpl.UserServiceImpl"/>
+<fullyQualifiedTypeName name="com.yash.blogapp.util.DateUtil"/>
+</qualifiedTypeNameHistroy>

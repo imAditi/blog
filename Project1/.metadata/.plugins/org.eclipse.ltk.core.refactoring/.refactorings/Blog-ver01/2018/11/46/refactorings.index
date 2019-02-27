@@ -1,0 +1,16 @@
+1542349235027	Copy package
+1542349250939	Delete element
+1542350607169	Rename package 'com.yash.blgapp.util'
+1542350635489	Rename package 'com.yash.blgapp.test'
+1542350658827	Rename package 'com.yash.blagapp.exception'
+1542351941349	Extract method 'url'
+1542351989792	Extract method 'userName'
+1542352007001	Extract method 'password'
+1542353697976	Delete element
+1542354112890	Delete element
+1542356267971	Move 'index.jsp' to 'WebContent'
+1542356308551	Delete element
+1542364574399	Rename package 'com.yash.blogapp.blogrowmapper'
+1542364648047	Rename type 'DateUti'
+1542372530071	Delete element
+1542373894592	Delete element

@@ -1,0 +1,75 @@
+.container {
+	margin: 0 auto;
+	background-color:#ecedf0;
+	margin-top: 5%;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 803px;
+	height: 364px;
+}
+
+.allpost {
+	margin-top: 0;
+	padding-left: 10px;
+	background-color: #f6f6f6;
+	height: 45px;
+	border-bottom:1px solid #ddd;
+}
+
+h3 {
+	margin: 0px;
+	padding:5px;
+}
+
+.table {
+	margin-top: 50px;
+	width:97%;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.dropdown {
+	float: left;
+	width: 65px;
+
+}
+
+p {
+	float: left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+#myInput {
+	height: 30px;
+	border-radius: 4px;
+	float: right;
+	width: 25%;
+	border-radius: 5px;
+}
+
+.topnav {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+
+ul.pagination {
+	float: right;
+	margin-top: 5px;
+	height: 10px;
+	margin-right:14px;
+	
+
+}
+#windowButtons{
+    margin:0 px;
+    float:right;
+    
+}
+button#dropdownMenu1.btn.btn-default.dropdown-toggle {
+width:120%;
+
+}
